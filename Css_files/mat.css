@@ -1,0 +1,133 @@
+body {
+    /* font-size: 15px;
+    line-height: 1.6em;
+    padding: 0;
+    margin: 0; */
+    font-family: 'Noto Sans Bengali', sans-serif;
+    /* font-family: 'Open Sans', sans-serif; */
+    font-family: 'Poppins', sans-serif;
+
+}
+.main-nav{
+    background-color: #51c2ec;
+    margin: 0;
+    padding: 0;
+}
+
+/* Section logoNav CSS */
+.institute_logo_nav_img {
+    width: auto;
+    height: 90px;
+    margin: 0;
+    padding: 10px;
+}
+
+
+
+.main_nav_bar{
+    background-color: #51c2ec;
+}
+.main_nav_bar li{
+    color: white;
+}
+
+.t_s_main_div{
+    padding: 5px 2px 5px 2px;
+    
+}
+
+.t_s_main_div .t_s_inf .btn_link .btn{
+    color: #ffffff;
+    background-color: #13b58e;
+    
+}
+    
+.t_s_main_div .t_s_inf .btn_link .btn:hover{
+color: #000000;
+
+
+}
+
+
+.institute_notice_text .list-group-flush a{
+    text-decoration: underline;
+    color: black;
+}
+
+
+.institute_nootice_btn .btn{
+    width: auto;
+    height: auto;
+    border: 3px solid #253c97;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: #000000;
+    background-color: none;
+}
+.institute_nootice_btn .btn:hover{
+    width: auto;
+    height: auto;
+    border: 3px solid #000000;;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+
+
+
+
+
+
+.bteb_notice_text .list-group-flush a{
+    text-decoration: underline;
+    color: black;
+}
+
+
+.bteb_nootice_btn .btn{
+    width: auto;
+    height: auto;
+    border: 3px solid #253c97;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: #000000;
+    background-color: none;
+}
+.bteb_nootice_btn .btn:hover{
+    width: auto;
+    height: auto;
+    border: 3px solid #000000;;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+
+
+
+.inst_card_info{
+    width: auto;
+    height: 300px;
+    background-color: #f5f5f5;
+}
+.inst_card_text .list-group a{
+    text-decoration: none;
+    color: #000000;
+}
+
+.inst_card_text .list-group a:hover{
+    text-decoration: ;
+    color: #253c97;
+}
+
+
+
+
+
